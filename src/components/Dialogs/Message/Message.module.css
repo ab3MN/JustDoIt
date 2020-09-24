@@ -1,0 +1,8 @@
+.item {
+  list-style-type: none;
+  color: #ffffff;
+}
+
+.list {
+  padding-inline-start: 0;
+}

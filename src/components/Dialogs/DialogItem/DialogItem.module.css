@@ -1,0 +1,13 @@
+.item {
+  padding: 10px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.items {
+  list-style-type: none;
+}
+
+.list {
+  padding-inline-start: 0;
+}
